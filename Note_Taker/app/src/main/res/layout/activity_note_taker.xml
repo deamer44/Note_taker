@@ -29,5 +29,5 @@
         android:id="@+id/note_push"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
-        android:onClick="pushInfo"/>
+        android:onClick="RunSocketClient"/>
 </RelativeLayout>
